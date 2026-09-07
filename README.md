@@ -34,7 +34,7 @@ Infraestructura de clasificación y enrutamiento automatizado multietapa.
 Diseño de planificadores automatizados en PDDL.
 *   **Implementación:** Desarrollo de dominios y problemas para algoritmos de enrutamiento y resolución de mapas lógicos complejos.
 
-### 🧠 [TFM] Modelado Predictivo en Alzheimer y Esclerosis Múltiple
+### [TFM] Modelado Predictivo en Alzheimer y Esclerosis Múltiple
 *Investigación clínica longitudinal desarrollada junto a Pau Chamarro López y Aleix Martí i Moral.*
 🔒 **[Repositorio Privado: `paucl/ProgresionAlzheimer`](https://github.com/paucl/ProgresionAlzheimer)** *(Acceso al código y métricas detalladas bajo petición).*
 
@@ -47,6 +47,6 @@ Desarrollo de una red neuronal recurrente (RNN) monocapa en PyTorch para predeci
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=2f80ed&text_color=434d58)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=2f80ed&text_color=434d58)
 
-## 📫 Cómo contactar conmigo
+## 📫 Cómo contactar conmigo 📫
 *   **LinkedIn:** [Daniel López Montero](https://www.linkedin.com/in/daniel-lópez-montero-b6897321b)
 *   **Email:** daniel.lm@protonmail.com
